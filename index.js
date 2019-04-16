@@ -28,5 +28,5 @@ function appendKitten(name) {
 
 function prependKitten(name) {
   var prependKitten=['Arnold']
-  return(kittens.concat(prependKitten))
+  return(prependKitten.concat(kittens))
 }
