@@ -30,3 +30,7 @@ function prependKitten(name) {
   var prependKitten=['Arnold']
   return(prependKitten.concat(kittens))
 }
+
+function removeLastKitten() {
+  
+}
