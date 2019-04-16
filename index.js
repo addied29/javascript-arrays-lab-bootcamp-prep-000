@@ -21,9 +21,11 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(name) {
-  
   return(appendKitten('Broom'))
   
- 
+}
+
+function prependKitten(name) {
+  return(prependKitten())
 }
 
