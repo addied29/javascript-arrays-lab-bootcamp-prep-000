@@ -26,6 +26,9 @@ function appendKitten(name) {
 }
 
 function prependKitten(name) {
-  return(prependKitten())
+  return(prependKitten('Arnold'))
 }
 
+function removeLastKitten() {
+  return
+}
