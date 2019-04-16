@@ -9,8 +9,8 @@ function destructivelyPrependKitten(name) {
   kittens.unshift('Bob')
   return kittens;
 }
-function distructivelyRemoveLastKitten(kittens) {
-  kittens.pop(-1)
+function distructivelyRemoveLastKitten(name) {
+  kittens.pop()
   return kittens;
 }
 
