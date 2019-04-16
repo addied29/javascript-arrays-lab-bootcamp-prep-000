@@ -21,7 +21,7 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(name) {
-  console.log(appendKitten('Broom'))
+  return(appendKitten('Broom'))
   
  
 }
