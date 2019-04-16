@@ -2,7 +2,7 @@ var kittens = ['Milo','Otis', 'Garfield'] //define your array here
 
 // Add your functions and code here
 function destructivelyAppendKitten(kittens,name) {
-  name.appendKitten('Ralph')
-  kittens=appendKitten('Ralph')
+  name.appendKittens('Ralph')
+  kittens=appendKittens('Ralph')
   return kittens
 }
